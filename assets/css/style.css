@@ -348,7 +348,8 @@ nav.navbar.bootsnav .navbar-toggle i{color: #d92cf9;}
     width: 300px;
     height: 40px;
     line-height: 40px;
-    padding-left: 50px;
+    padding-left: 60px;
+    padding-right: 60px;
     border-radius: 3px;
     text-transform: capitalize;
     color: #fff;
