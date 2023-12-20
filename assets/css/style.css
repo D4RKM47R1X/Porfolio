@@ -279,7 +279,7 @@ nav.navbar.bootsnav .navbar-toggle i{color: #d92cf9;}
     left:  0;
     width: 109%;
     height:  100%;
-    background: rgba(31,44,108,.3);
+    
 }
 .single-about-img img {
     max-width: 500px;
@@ -343,6 +343,24 @@ nav.navbar.bootsnav .navbar-toggle i{color: #d92cf9;}
 .single-horizontal-timeline .experience-time h3 span{text-transform:lowercase;}
 .single-horizontal-timeline .timeline-content h5 {margin: 15px 0;}
 .single-horizontal-timeline p {color: #999fb3;max-width: 335px;}
+
+.downloadb a {
+    width: 300px;
+    height: 40px;
+    line-height: 40px;
+    padding-left: 50px;
+    border-radius: 3px;
+    text-transform: capitalize;
+    color: #fff;
+    background: #b636ff;
+    border:1px solid #b636ff;
+    box-shadow: 0 5px 20px rgba(0,0,0,.2);
+    -webkit-transition: 0.3s linear; 
+    -moz-transition: 0.3s linear; 
+    -ms-transition: 0.3s linear; 
+    -o-transition: 0.3s linear; 
+    transition: 0.3s linear;
+}
 
 /*.timeline-horizontal-border*/
 .timeline-horizontal-border {
